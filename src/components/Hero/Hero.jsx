@@ -2,6 +2,6 @@ import'./Hero.css'
 
 export const Hero = () => {
   return (
-    <div>Hero</div>
+    <div>Hero component</div>
   )
 }
